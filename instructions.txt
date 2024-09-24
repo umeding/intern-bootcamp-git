@@ -1,0 +1,4 @@
+created yay repo 'https://github.com/ExoticBubble15/yay' and added files: README.md, question.txt, random.txt
+forked 'umeding/intern-bootcamp-git:main' and created feature branch 'https://github.com/ExoticBubble15/intern-bootcamp-git/branches'
+updated attendees.txt and added instructions.txt to feature branch
+merge/pull request: https://github.com/umeding/intern-bootcamp-git/pull/16
